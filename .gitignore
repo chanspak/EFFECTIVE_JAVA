@@ -1,0 +1,8 @@
+# compile directory
+bin/
+
+# library directory
+lib/
+
+# vscode setting file
+.vscode
