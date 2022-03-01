@@ -7,3 +7,4 @@
     - [아이템64. 객체는 인터페이스를 사용해 참조하라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM64)
     - [아이템65. 리플렉션보다는 인터페이스를 사용하라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM65)
     - [아이템66. 네이티브 메서드는 신중히 사용하라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM66)
+    - [아이템67. 최적화는 신중히 하라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM67)
