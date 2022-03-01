@@ -1,0 +1,9 @@
+- 9장. 일반적인 프로그래밍 원칙
+    - [아이템59. 라이브러리를 익히고 사용하라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM59)
+    - [아이템60. 정확한 답이 필요하다면 float와 double은 피하라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM60)
+    - [아이템61. 박싱된 기본 타입보다는 기본 타입을 사용하라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM61) 
+    - [아이템62. 다른 타입이 적절하다면 문자열 사용을 피하라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM62)
+    - [아이템63. 문자열 연결은 느리니 주의하라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM63)
+    - [아이템64. 객체는 인터페이스를 사용해 참조하라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM64)
+    - [아이템65. 리플렉션보다는 인터페이스를 사용하라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM65)
+    - [아이템66. 네이티브 메서드는 신중히 사용하라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM66)
