@@ -9,4 +9,14 @@
     - [아이템66. 네이티브 메서드는 신중히 사용하라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM66)
     - [아이템67. 최적화는 신중히 하라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM67)
     - [아이템68. 일반적으로 통용되는 명명 규칙을 따르라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM68)
+- 10장. 예외
     - [아이템69. 예외는 진짜 예외 상황에만 사용하라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM69)
+    - [아이템70. 복구할 수 있는 상황에는 검사 예외를, 프로그래밍 오류에는 런타임 예외를 사용하라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM70)
+    - [아이템71. 필요 없는 검사 예외 사용은 피하라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM71)
+    - [아이템72. 표준 예외를 사용하라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM72)
+    - [아이템73. 추상화 수준에 맞는 예외를 던지라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM73)
+    - [아이템74. 메서드가 던지는 모든 예외를 문서화하라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM74)
+    - [아이템75. 예외의 상태 메시지에 실패 관련 정보를 담으라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM75)
+    - [아이템76. 가능한 한 실패 원자적으로 만들라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM76)
+    - [아이템77. 예외를 무시하지 말라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM77)
+        
