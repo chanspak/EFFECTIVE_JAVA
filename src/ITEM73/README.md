@@ -6,7 +6,7 @@
 - 상위 계층에서 는 저수준 예외를 잡아 자신의 추상화 수준에 맞는 예욍로 바꿔 던져야 한다. (예외번역)
 
 ```java
-//  AbstractSequentialList에서 수행하는 예외번역
+// AbstractSequentialList에서 수행하는 예외번역
 public E get(int index) {
 	ListIterator<E> i = listIterator(index);
 	try {

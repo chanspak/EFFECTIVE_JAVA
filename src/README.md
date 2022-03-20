@@ -19,4 +19,8 @@
     - [아이템75. 예외의 상태 메시지에 실패 관련 정보를 담으라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM75)
     - [아이템76. 가능한 한 실패 원자적으로 만들라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM76)
     - [아이템77. 예외를 무시하지 말라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM77)
-        
+- 11장. 동시성
+    - [아이템78. 공유 중인 가변 데이터는 동기화해 사용하라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM78)
+    - [아이템79. 과도한 동기화는 피하라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM79)
+    - [아이템80. 스레드보다는 실행자, 태스크, 스트림을 애용하라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM80)
+    - [아이템81. wait 와 notify 보다는 동시성 유틸리티를 애용하라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM81)
