@@ -24,3 +24,8 @@
     - [아이템79. 과도한 동기화는 피하라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM79)
     - [아이템80. 스레드보다는 실행자, 태스크, 스트림을 애용하라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM80)
     - [아이템81. wait 와 notify 보다는 동시성 유틸리티를 애용하라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM81)
+    - [아이템82. 스레드 안전성 수준을 문서화하라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM82)
+    - [아이템83. 지연 초기화는 신중히 사용하라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM83)
+    - [아이템84. 프로그램의 동작을 스레드 스케줄러에 기대지 말라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM84)
+- 12장. 직렬화
+    - [아이템85. 자바 직렬화의 대안을 찾으라](https://github.com/chanspak/EFFECTIVE_JAVA/tree/master/src/ITEM85)
